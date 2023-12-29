@@ -1,0 +1,10 @@
+width = 800
+height = 600
+bgcolor = [200, 200, 200]
+max_vspeed = 3
+jump_boost = 10
+pipe_speed = 3
+pipe_color = [0, 180, 0]
+
+
+high_score_file = "high_score.txt"
